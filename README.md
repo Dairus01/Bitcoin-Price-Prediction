@@ -75,6 +75,6 @@ Key highlights include:
 
 1. **Clone this repository** and open the notebook in Jupyter:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/Dairus01/Bitcoin-Price-Prediction
+   cd Bitcoin-Price-Prediction
    jupyter notebook Bitcoin Price Prediction.ipynb
