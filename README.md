@@ -5,7 +5,7 @@ The notebook provides a complete workflow: data cleaning, feature engineering, d
 
 ---
 
-## 📈 Project Overview
+## Project Overview
 
 The goal is to model and forecast Bitcoin's monthly price trends by leveraging statistical time series techniques.  
 Key highlights include:
@@ -18,7 +18,7 @@ Key highlights include:
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 - **Source:** [Bitcoin Historical Data (Kaggle)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
 - **File:** `btcusd_1-min_data.csv`
@@ -28,7 +28,7 @@ Key highlights include:
 
 ---
 
-## 🚦 Workflow & Methodology
+## Workflow & Methodology
 
 ### 1. **Data Loading & Preparation**
    - Load raw CSV data.
@@ -71,7 +71,7 @@ Key highlights include:
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 1. **Clone this repository** and open the notebook in Jupyter:
    ```bash
