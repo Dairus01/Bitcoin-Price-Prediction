@@ -70,6 +70,9 @@ Key highlights include:
    - Compute forecast accuracy using MAPE (Mean Absolute Percentage Error).
 
 ---
+### Live Prediction
+You can view the live prediction on kaggle here
+```https://www.kaggle.com/code/dairus/bitcoin-price-prediction-by-time-series-and-arima/notebook```
 
 ##  Usage
 
